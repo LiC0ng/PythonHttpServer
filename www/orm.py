@@ -1,4 +1,4 @@
-import asyncio, logging, aiomysql
+import logging, aiomysql
 
 
 def log(sql, args=()):
